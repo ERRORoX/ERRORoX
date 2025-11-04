@@ -2,13 +2,13 @@
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=200&section=header&text=ERRORoX&fontSize=90&animation=twinkling&fontAlignY=35&fontColor=ffffff&stroke=FF0000&strokeWidth=2)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=ERRORoX+%E2%80%94+Where+Every+Bug+Hides+a+Hex;Breaking+Systems+to+Make+Them+Stronger" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=5000&pause=2000&color=FF0000&center=true&vCenter=true&width=800&lines=🔍+ERRORoX+%E2%80%94+Where+Every+Bug+Hides+a+Hex;💻+Breaking+Systems+to+Make+Them+Stronger;🛡️+OSINT+%7C+Cyber+Security+%7C+CTF+Player" alt="Typing SVG" />
 
 ### 🛡️ OSINT Enthusiast | 🔐 Cyber Security | 🏆 CTF Player | 🔧 Reverse Engineer
 
-**💻 Breaking systems to make them stronger.**  
-**⚠️ ERRORoX — where every bug hides a hex.**  
-**🇹🇯 Based in Tajikistan**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=💻+Breaking+systems+to+make+them+stronger;⚠️+ERRORoX+%E2%80%94+where+every+bug+hides+a+hex;🇹🇯+Based+in+Tajikistan" alt="Status" />
+</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/ERRORoX?style=social&label=Follow&maxAge=2592000)](https://github.com/ERRORoX)
 [![GitHub stars](https://img.shields.io/github/stars/ERRORoX?style=social&label=Stars&maxAge=2592000)](https://github.com/ERRORoX)
@@ -20,6 +20,10 @@
 ### 🎯 Обо мне
 
 <div align="center">
+  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=700&lines=🔍+Security+Researcher+%7C+OSINT+Specialist+%7C+CTF+Player;💻+Breaking+systems+to+make+them+stronger+since+2022;⚠️+Every+bug+hides+a+hex" alt="About Me Animation" />
+</p>
   
 ```python
 class ERRORoX:
@@ -120,6 +124,10 @@ if __name__ == "__main__":
 
 <div align="center">
   
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=FF0000&center=true&vCenter=true&width=500&lines=📈+GitHub+Statistics+%26+Analytics;🚀+My+Coding+Journey" alt="Stats Animation" />
+</p>
+  
 <!-- GitHub Stats Card -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ERRORoX&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=FF0000&icon_color=FF0000&bg_color=0D1117&text_color=FFFFFF&ring_color=FF0000)
 
@@ -139,6 +147,10 @@ if __name__ == "__main__":
 ### 🔥 Избранные проекты
 
 <div align="center">
+  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=🔥+Featured+Projects+%26+Repositories;🤖+AI+%7C+OSINT+%7C+Security+Tools" alt="Projects Animation" />
+</p>
   
 #### 🤖 AI & Automation
   
@@ -187,6 +199,10 @@ if __name__ == "__main__":
 
 <div align="center">
   
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=650&lines=🎓+Experience+%26+Interests;🛡️+Cybersecurity+%7C+OSINT+%7C+CTF+%7C+Reverse+Engineering" alt="Experience Animation" />
+</p>
+  
 ```mermaid
 graph TD
     A[ERRORoX] --> B[Cybersecurity]
@@ -228,6 +244,10 @@ graph TD
 
 <div align="center">
   
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=🌟+Skills+%26+Competencies;🔍+OSINT+%7C+Reverse+Engineering+%7C+Security" alt="Skills Animation" />
+</p>
+  
 | Навык | Уровень | Статус |
 |-------|---------|--------|
 | **OSINT** | 🔍 Expert | ✅ Активно использую |
@@ -248,6 +268,10 @@ graph TD
 ### 📈 Вклад в безопасность
 
 <div align="center">
+  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=📈+Contribution+to+Security;💻+My+GitHub+Activity+%26+Progress" alt="Contribution Animation" />
+</p>
   
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ERRORoX&theme=tokyo-night&hide_border=true&color=FF0000&line=FF0000&point=FF0000&area=true&area_color=FF0000&bg_color=0D1117&title_color=FFFFFF)
 
@@ -317,6 +341,10 @@ graph TD
 
 <div align="center">
   
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=2000&color=FF0000&center=true&vCenter=true&width=650&lines=🎯+Current+Activity+%26+Status;🔭+Working+on+AI+Bots+%7C+OSINT+Tools+%7C+Security" alt="Activity Animation" />
+</p>
+  
 | Деятельность | Статус | Описание |
 |--------------|--------|----------|
 | 🔭 **Работаю над** | 🟢 Активно | Улучшением AI-ботов и OSINT инструментов |
@@ -348,6 +376,10 @@ graph TD
 ### 🎯 Цели и планы
 
 <div align="center">
+  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=🎯+Goals+%26+Plans;🚀+Future+Aspirations+%26+Objectives" alt="Goals Animation" />
+</p>
   
 - [ ] 🎯 Продолжать развиваться в области OSINT и безопасности
 - [ ] 🏆 Участвовать в крупных CTF соревнованиях и конкурсах
@@ -432,6 +464,10 @@ graph TD
 ---
 
 <div align="center">
+  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5000&pause=2000&color=FF0000&center=true&vCenter=true&width=700&lines=⚡+Fun+Stats+%26+Random+Facts;🎉+Thanks+for+visiting+my+profile!" alt="Fun Stats Animation" />
+</p>
   
 ### ⚡ Забавная статистика
 
