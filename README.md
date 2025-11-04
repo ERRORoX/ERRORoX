@@ -4,30 +4,15 @@
 
 <div align="center">
 
-```
-██████╗ ██████╗ ██████╗  ██████╗ ██████╗ ███████╗██╗  ██╗
-██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██╔══██╗██╔════╝╚██╗██╔╝
-██████╔╝██████╔╝██████╔╝██║   ██║██████╔╝███████╗ ╚███╔╝ 
-██╔══██╗██╔══██╗██╔══██╗██║   ██║██╔══██╗╚════██║ ██╔██╗ 
-██║  ██║██║  ██║██████╔╝╚██████╔╝██║  ██║███████║██╔╝ ██╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-```
+![ERRORoX Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0000,100:000000&height=280&section=header&text=ERRORoX&fontSize=110&animation=twinkling&fontAlignY=35&fontColor=00FF00&stroke=FF0000&strokeWidth=5)
 
-![ERRORoX Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0000,100:000000&height=250&section=header&text=ERRORoX&fontSize=100&animation=twinkling&fontAlignY=35&fontColor=00FF00&stroke=FF0000&strokeWidth=4)
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=5000&pause=2500&color=FF0000&center=true&vCenter=true&width=950&lines=🔍+OSINT+Enthusiast+%7C+Cyber+Security+%7C+CTF+Player;🛡️+Reverse+Engineer+%7C+Kali+Linux+Specialist;⚠️+Breaking+systems+to+make+them+stronger;💻+ERRORoX+%E2%80%94+where+every+bug+hides+a+hex" alt="Main Typing Animation" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=32&duration=5000&pause=2500&color=FF0000&center=true&vCenter=true&width=900&lines=🔍+OSINT+Enthusiast+%7C+Cyber+Security+%7C+CTF+Player;🛡️+Reverse+Engineer+%7C+Kali+Linux+Specialist;⚠️+Breaking+systems+to+make+them+stronger;💻+ERRORoX+%E2%80%94+where+every+bug+hides+a+hex" alt="Main Typing Animation" />
+### 🛡️ Энтузиаст OSINT | 🔐 Кибербезопасность | 🏆 CTF Игрок | 🔧 Обратная инженерия
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  [*] SYSTEM STATUS: ONLINE                                   ║
-║  [+] USER: ERROR                                              ║
-║  [+] LOCATION: 🇹🇯 Tajikistan                                 ║
-║  [+] ROLE: Security Researcher | OSINT Specialist            ║
-║  [+] SINCE: 2022-01-06                                        ║
-║  [+] MOTTO: Breaking systems to make them stronger           ║
-║  [+] TAGLINE: Every bug hides a hex                          ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+**⚠️ ERRORoX — where every bug hides a hex**  
+**💻 Breaking systems to make them stronger since 2022**  
+**🇹🇯 Based in Tajikistan**
 
 [![GitHub followers](https://img.shields.io/github/followers/ERRORoX?style=for-the-badge&logo=github&color=00FF00&labelColor=000000&label=Followers)](https://github.com/ERRORoX)
 [![GitHub stars](https://img.shields.io/github/stars/ERRORoX?style=for-the-badge&logo=github&color=FF0000&labelColor=000000&label=Stars)](https://github.com/ERRORoX)
@@ -42,7 +27,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=24&duration=3000&pause=1500&color=00FF00&center=true&vCenter=true&width=850&lines=%3E%3E%3E+Loading+ERRORoX+Profile...;%3E%3E%3E+Security+Researcher+%7C+OSINT+Specialist+%7C+CTF+Player;%3E%3E%3E+Breaking+systems+since+2022;%3E%3E%3E+Hex+Code+Analyzer+Ready%21" alt="Profile Loading" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=24&duration=3000&pause=1500&color=00FF00&center=true&vCenter=true&width=900&lines=%3E%3E%3E+Loading+ERRORoX+Profile...;%3E%3E%3E+Security+Researcher+%7C+OSINT+Specialist+%7C+CTF+Player;%3E%3E%3E+Breaking+systems+since+2022;%3E%3E%3E+Hex+Code+Analyzer+Ready%21" alt="Profile Loading" />
 </p>
 
 ```python
@@ -59,7 +44,7 @@ class ERRORoX:
         self.motto = "Breaking systems to make them stronger"
         self.tagline = "Every bug hides a hex"
         self.founded = "2022-01-06"
-        self.status = "[ONLINE]"
+        self.status = "[🟢 ONLINE]"
         
     def skills(self):
         return {
@@ -89,6 +74,13 @@ class ERRORoX:
             "followers": 0,
             "following": 1
         }
+    
+    def hack(self):
+        """Find vulnerabilities and make systems stronger"""
+        print("[*] Scanning for vulnerabilities...")
+        print("[+] Bug found! Extracting hex...")
+        print("[*] System secured!")
+        return "System strengthened"
 
 if __name__ == "__main__":
     me = ERRORoX()
@@ -96,6 +88,7 @@ if __name__ == "__main__":
     print(f"[+] Location: {me.location}")
     print(f"[+] Status: {me.motto}")
     print(f"[+] Tagline: {me.tagline}")
+    me.hack()
 ```
 
 </div>
@@ -107,14 +100,14 @@ if __name__ == "__main__":
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=%5B%2B%5D+Analyzing+GitHub+Activity...;%5B%2B%5D+Scanning+Commits+and+Repositories...;%5B%2B%5D+ERRORoX+Statistics+Loading...;%5B%2A%5D+Data+Visualization+Ready%21" alt="Stats Loading" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=%5B%2B%5D+Analyzing+GitHub+Activity...;%5B%2B%5D+Scanning+Commits+and+Repositories...;%5B%2B%5D+ERRORoX+Statistics+Loading...;%5B%2A%5D+Data+Visualization+Ready%21" alt="Stats Loading" />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ERRORoX&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=00FF00&icon_color=FF0000&bg_color=000000&text_color=FFFFFF&ring_color=FF0000&custom_title=ERRORoX+GitHub+Statistics)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ERRORoX&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=00FF00&icon_color=FF0000&bg_color=000000&text_color=FFFFFF&ring_color=FF0000&custom_title=ERRORoX+GitHub+Statistics&border_radius=10)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ERRORoX&theme=dark&hide_border=false&fire=FF0000&ring=FF0000&currStreakLabel=00FF00&sideLabels=FFFFFF&sideNums=FFFFFF&dates=00FF00&background=000000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ERRORoX&theme=dark&hide_border=false&fire=FF0000&ring=FF0000&currStreakLabel=00FF00&sideLabels=FFFFFF&sideNums=FFFFFF&dates=00FF00&background=000000&border_radius=10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ERRORoX&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=00FF00&bg_color=000000&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ERRORoX&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=00FF00&bg_color=000000&text_color=FFFFFF&border_radius=10)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ERRORoX&theme=dark&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Commits,Issues,PRs,Stars,Followers&row=2&column=4)
 
@@ -127,26 +120,26 @@ if __name__ == "__main__":
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=3000&pause=1500&color=FF00FF&center=true&vCenter=true&width=850&lines=%5B%23%5D+Loading+ERRORoX+Projects...;%5B%23%5D+AI+Bots+%7C+OSINT+Tools+%7C+Security+Scripts;%5B%23%5D+14+Repositories+Detected;%5B%2A%5D+Featured+Projects+Ready%21" alt="Projects Loading" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=3000&pause=1500&color=FF00FF&center=true&vCenter=true&width=900&lines=%5B%23%5D+Loading+ERRORoX+Projects...;%5B%23%5D+AI+Bots+%7C+OSINT+Tools+%7C+Security+Scripts;%5B%23%5D+14+Repositories+Detected;%5B%2A%5D+Featured+Projects+Ready%21" alt="Projects Loading" />
 </p>
 
 ### 🤖 AI & Automation
 
-[![black-bot](https://github-readme-stats.vercel.app/api/pin/?username=ERRORoX&repo=black-bot&theme=dark&title_color=00FF00&bg_color=000000&text_color=FFFFFF&border_color=FF0000)](https://github.com/ERRORoX/black-bot)
-[![black-bot.v2](https://github-readme-stats.vercel.app/api/pin/?username=ERRORoX&repo=black-bot.v2&theme=dark&title_color=00FF00&bg_color=000000&text_color=FFFFFF&border_color=FF0000)](https://github.com/ERRORoX/black-bot.v2)
+[![black-bot](https://github-readme-stats.vercel.app/api/pin/?username=ERRORoX&repo=black-bot&theme=dark&title_color=00FF00&bg_color=000000&text_color=FFFFFF&border_color=FF0000&border_radius=10)](https://github.com/ERRORoX/black-bot)
+[![black-bot.v2](https://github-readme-stats.vercel.app/api/pin/?username=ERRORoX&repo=black-bot.v2&theme=dark&title_color=00FF00&bg_color=000000&text_color=FFFFFF&border_color=FF0000&border_radius=10)](https://github.com/ERRORoX/black-bot.v2)
 
 **Telegram-бот с AI для безопасности и Kali Linux**  
 Интеграция с OpenAI API для помощи в исследовании безопасности, программировании и использовании Kali Linux.
 
 ### 🔍 OSINT & Security Tools
 
-[![EXIF](https://github-readme-stats.vercel.app/api/pin/?username=ERRORoX&repo=EXIF&theme=dark&title_color=00FF00&bg_color=000000&text_color=FFFFFF&border_color=FF0000)](https://github.com/ERRORoX/EXIF)
+[![EXIF](https://github-readme-stats.vercel.app/api/pin/?username=ERRORoX&repo=EXIF&theme=dark&title_color=00FF00&bg_color=000000&text_color=FFFFFF&border_color=FF0000&border_radius=10)](https://github.com/ERRORoX/EXIF)
 
 **Инструменты OSINT для сбора информации**
 
 ### 📚 Kali Linux & Education
 
-[![Kali-Linux-Academy](https://github-readme-stats.vercel.app/api/pin/?username=ERRORoX&repo=Kali-Linux-Academy&theme=dark&title_color=00FF00&bg_color=000000&text_color=FFFFFF&border_color=FF0000)](https://github.com/ERRORoX/Kali-Linux-Academy)
+[![Kali-Linux-Academy](https://github-readme-stats.vercel.app/api/pin/?username=ERRORoX&repo=Kali-Linux-Academy&theme=dark&title_color=00FF00&bg_color=000000&text_color=FFFFFF&border_color=FF0000&border_radius=10)](https://github.com/ERRORoX/Kali-Linux-Academy)
 
 **Образовательные материалы по Kali Linux**
 
@@ -159,7 +152,7 @@ if __name__ == "__main__":
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=3000&pause=1500&color=00FFFF&center=true&vCenter=true&width=800&lines=🛠️+Technologies+for+bug+hunting;🔍+Tools+for+hex+code+analysis;💻+Security+automation+stack" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=3000&pause=1500&color=00FFFF&center=true&vCenter=true&width=850&lines=🛠️+Technologies+for+bug+hunting;🔍+Tools+for+hex+code+analysis;💻+Security+automation+stack" alt="Tech Stack" />
 </p>
 
 ### 💻 Языки программирования
@@ -192,14 +185,9 @@ if __name__ == "__main__":
 
 <div align="center">
 
-```
-┌────────────────────────────────────────────────────────────┐
-│  [*] Scanning repositories...                              │
-│  [+] Found 14 public repositories                          │
-│  [+] Categorizing by technology...                         │
-│  [+] Analysis complete                                     │
-└────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=3000&pause=1500&color=00FF00&center=true&vCenter=true&width=800&lines=%5B*%5D+Scanning+repositories...;%5B+%5D+Found+14+public+repositories;%5B+%5D+Categorizing+by+technology...;%5B+%5D+Analysis+complete" alt="Repos Scanning" />
+</p>
 
 | 🔢 | Проект | Язык | Категория | Описание |
 |----|--------|------|-----------|----------|
@@ -227,34 +215,8 @@ if __name__ == "__main__":
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=4000&pause=2000&color=00FF00&center=true&vCenter=true&width=850&lines=🎓+Experience+%26+Interests;🛡️+Cybersecurity+%7C+OSINT+%7C+CTF+%7C+Reverse+Engineering;🔍+Bug+hunting+%7C+Hex+code+analysis+%7C+System+protection" alt="Experience" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=4000&pause=2000&color=00FF00&center=true&vCenter=true&width=900&lines=🎓+Experience+%26+Interests;🛡️+Cybersecurity+%7C+OSINT+%7C+CTF+%7C+Reverse+Engineering;🔍+Bug+hunting+%7C+Hex+code+analysis+%7C+System+protection" alt="Experience" />
 </p>
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  Security Research & Development                            │
-│  ├── OSINT (Open Source Intelligence)                       │
-│  │   ├── Information Gathering                             │
-│  │   ├── Social Engineering                                │
-│  │   └── Digital Forensics                                 │
-│  ├── Penetration Testing                                    │
-│  │   ├── Web Application Security                          │
-│  │   ├── Network Security                                  │
-│  │   └── Wireless Security                                 │
-│  ├── Reverse Engineering                                    │
-│  │   ├── Binary Analysis                                   │
-│  │   ├── Malware Research                                  │
-│  │   └── Exploit Development                               │
-│  ├── CTF Competitions                                       │
-│  │   ├── Web Challenges                                    │
-│  │   ├── Crypto Challenges                                 │
-│  │   └── Forensics Challenges                              │
-│  └── AI-Powered Security Tools                              │
-│      ├── Automated Scanning                                │
-│      ├── Intelligent Analysis                              │
-│      └── Security Automation                               │
-└─────────────────────────────────────────────────────────────┘
-```
 
 **🔹 OSINT Research** - Сбор и анализ открытой информации для исследований безопасности  
 **🔹 Cyber Security** - Исследование уязвимостей и защита систем от атак  
@@ -274,7 +236,7 @@ if __name__ == "__main__":
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=3000&pause=1500&color=FFFF00&center=true&vCenter=true&width=850&lines=🌟+Skills+%26+Competencies;🔍+OSINT+%7C+Reverse+Engineering+%7C+Security;🐍+Python+%7C+Hex+Analysis+%7C+CTF" alt="Skills" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=3000&pause=1500&color=FFFF00&center=true&vCenter=true&width=900&lines=🌟+Skills+%26+Competencies;🔍+OSINT+%7C+Reverse+Engineering+%7C+Security;🐍+Python+%7C+Hex+Analysis+%7C+CTF" alt="Skills" />
 </p>
 
 | Навык | Уровень | Статус |
@@ -297,7 +259,7 @@ if __name__ == "__main__":
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=3000&pause=1500&color=FF00FF&center=true&vCenter=true&width=900&lines=%5B%26%5D+ERRORoX+System+Status%3A+ONLINE;%5B%26%5D+Working+on%3A+AI+Bots+%7C+OSINT+Tools;%5B%26%5D+Scanning+for+vulnerabilities...;%5B%2A%5D+Active+Projects+Running%21" alt="Current Activity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=3000&pause=1500&color=FF00FF&center=true&vCenter=true&width=950&lines=%5B%26%5D+ERRORoX+System+Status%3A+ONLINE;%5B%26%5D+Working+on%3A+AI+Bots+%7C+OSINT+Tools;%5B%26%5D+Scanning+for+vulnerabilities...;%5B%2A%5D+Active+Projects+Running%21" alt="Current Activity" />
 </p>
 
 | Деятельность | Статус | Описание |
@@ -317,10 +279,10 @@ if __name__ == "__main__":
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=3000&pause=1500&color=00FF00&center=true&vCenter=true&width=800&lines=📈+Contribution+to+Security;💻+My+GitHub+Activity+%26+Progress" alt="Contribution" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=3000&pause=1500&color=00FF00&center=true&vCenter=true&width=850&lines=📈+Contribution+to+Security;💻+My+GitHub+Activity+%26+Progress" alt="Contribution" />
 </p>
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ERRORoX&theme=dark&hide_border=true&color=00FF00&line=FF0000&point=00FF00&area=true&area_color=FF0000&bg_color=000000&title_color=FFFFFF)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ERRORoX&theme=dark&hide_border=true&color=00FF00&line=FF0000&point=00FF00&area=true&area_color=FF0000&bg_color=000000&title_color=FFFFFF&border_radius=10)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/ERRORoX/ERRORoX?style=for-the-badge&logo=github&color=00FF00&labelColor=000000&label=Last+Commit)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ERRORoX/ERRORoX?style=for-the-badge&logo=github&color=FF0000&labelColor=000000&label=Commits/Month)
@@ -334,7 +296,7 @@ if __name__ == "__main__":
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=850&lines=🎯+Goals+%26+Plans;🚀+Future+Aspirations+%26+Objectives" alt="Goals" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=900&lines=🎯+Goals+%26+Plans;🚀+Future+Aspirations+%26+Objectives" alt="Goals" />
 </p>
 
 - [ ] 🎯 Продолжать развиваться в области OSINT и безопасности
@@ -355,7 +317,7 @@ if __name__ == "__main__":
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=900&lines=🔥+Interesting+Facts+about+ERRORoX;🖥️+Breaking+systems+to+make+them+safer;🔍+Every+bug+hides+a+hex+%E2%80%94+I+find+them;🛡️+Protecting+by+researching+vulnerabilities;🎯+Focus+on+ethical+hacking" alt="Fun Facts" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=950&lines=🔥+Interesting+Facts+about+ERRORoX;🖥️+Breaking+systems+to+make+them+safer;🔍+Every+bug+hides+a+hex+%E2%80%94+I+find+them;🛡️+Protecting+by+researching+vulnerabilities;🎯+Focus+on+ethical+hacking" alt="Fun Facts" />
 </p>
 
 | Факт | Описание |
@@ -396,23 +358,16 @@ if __name__ == "__main__":
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  ⭐️ From [ERRORoX](https://github.com/ERRORoX)               ║
-║                                                                ║
-║  Made with ❤️ and 🔐 Security in mind                         ║
-║                                                                ║
-║  ⚠️ Remember: Use your powers responsibly.                    ║
-║     Ethical hacking only!                                     ║
-║                                                                ║
-║  🔒 Always stay curious, stay secure, stay ethical.           ║
-║                                                                ║
-║  💻 Breaking systems to make them stronger                    ║
-║     ERRORoX — where every bug hides a hex                     ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+⭐️ **From [ERRORoX](https://github.com/ERRORoX)**
+
+**Made with ❤️ and 🔐 Security in mind**
+
+⚠️ **Remember: Use your powers responsibly. Ethical hacking only!**
+
+🔒 **Always stay curious, stay secure, stay ethical.**
+
+💻 **Breaking systems to make them stronger | ERRORoX — where every bug hides a hex**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ERRORoX&color=00FF00&style=for-the-badge&label=Profile+Views&labelColor=000000)
 
 </div>
-Ы
