@@ -22,18 +22,14 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=700&lines=⚠️+Почему+я+называю+себя+ERRORoX%3F;🔍+Каждый+баг+скрывает+hex+код" alt="Why ERRORoX Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=⚠️+ERROR+%3D+Каждая+ошибка+%3D+Возможность+стать+лучше;🔍+oX+%3D+Hex+код+скрытый+в+каждом+баге;💻+Взламываю+системы+чтобы+сделать+их+сильнее;🛡️+Каждый+баг+скрывает+hex+%E2%80%94+я+их+нахожу;🚀+ERRORoX+%E2%80%94+где+ошибки+становятся+решениями" alt="Why ERRORoX Animation" />
 </p>
 
-**ERRORoX** — это не просто случайное имя. Это философия и подход к безопасности:
+![Animated Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:000000,100:FF0000&height=150&section=header&text=ERRORoX&fontSize=70&animation=twinkling&fontAlignY=40&fontColor=ffffff&stroke=FF0000&strokeWidth=3)
 
-- **ERROR** — Каждая ошибка (error) в системе — это возможность стать лучше
-- **oX** — Hex (шестнадцатеричный) код, скрытый в каждом баге
-- **"Where Every Bug Hides a Hex"** — Каждый баг скрывает hex код, который я нахожу
-
-Я верю, что **взламывание систем делает их сильнее**. Каждая найденная уязвимость, каждый обнаруженный баг — это шаг к более безопасному миру. ERRORoX символизирует мой подход: находить ошибки, анализировать их на уровне hex-кода и помогать сделать системы безопаснее.
-
-**💻 Breaking systems to make them stronger** — это не просто девиз, это моя миссия.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=900&lines=🔴+ERROR+404%3A+Bug+Not+Found+%E2%86%92+Found+by+ERRORoX;🟠+0xERRORoX+%3D+Hex+Code+Analyzer;🟡+Breaking+Systems+%E2%86%92+Making+Them+Stronger;🟢+Every+Bug+Hides+a+Hex+%E2%86%92+I+Find+Them;🔵+Vulnerability+Hunter+%7C+Security+Researcher;🟣+ERRORoX+%3D+ERROR+%2B+Hex+%3D+Solutions" alt="Animated Codes" />
+</p>
 
 </div>
 
@@ -106,6 +102,10 @@ if __name__ == "__main__":
 ### 🛠️ Технологический стек
 
 <div align="center">
+  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=3000&pause=1500&color=FF0000&center=true&vCenter=true&width=700&lines=🛠️+Технологии+для+поиска+багов;🔍+Инструменты+для+анализа+hex+кодов;💻+Средства+для+взлома+и+защиты" alt="Tech Stack Animation" />
+</p>
   
 #### 💻 Языки программирования
   
@@ -196,6 +196,10 @@ if __name__ == "__main__":
 ### 📦 Все проекты (14 публичных репозиториев)
 
 <div align="center">
+  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=3500&pause=2000&color=FF0000&center=true&vCenter=true&width=750&lines=📦+14+публичных+репозиториев;🔍+Проекты+для+поиска+багов+и+уязвимостей;🤖+AI+боты+%7C+OSINT+инструменты+%7C+Безопасность;💻+Каждый+проект+%E2%80%94+шаг+к+безопасности" alt="Projects List Animation" />
+</p>
   
 | 🔢 | Проект | Язык | Категория | Описание |
 |----|--------|------|-----------|----------|
@@ -309,6 +313,10 @@ graph TD
 ### 🔐 Сфера деятельности
 
 <div align="center">
+  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=800&lines=🔐+Сфера+деятельности+ERRORoX;🛡️+Кибербезопасность+%7C+OSINT+%7C+CTF+%7C+Reverse+Engineering;🔍+Поиск+багов+%7C+Анализ+hex+кодов+%7C+Защита+систем;💻+Взлом+%E2%86%92+Анализ+%E2%86%92+Защита" alt="Activity Sphere Animation" />
+</p>
   
 ```
 🛡️ Cybersecurity Research & Development
@@ -445,6 +453,10 @@ graph TD
 ### 🔥 Интересные факты
 
 <div align="center">
+  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=750&lines=🔥+Интересные+факты+об+ERRORoX;🖥️+Взламываю+системы+чтобы+сделать+их+безопаснее;🔍+Каждый+баг+скрывает+hex+%E2%80%94+я+их+нахожу;🛡️+Защищаю+исследуя+уязвимости;🎯+Фокус+на+этичном+хакинге" alt="Fun Facts Animation" />
+</p>
   
 | Факт | Описание |
 |------|----------|
