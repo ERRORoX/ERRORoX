@@ -1,5 +1,9 @@
 <div align="center">
   
+![Header Explosion](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:FF4500,100:000000&height=250&section=header&text=ERRORoX&fontSize=100&animation=twinkling&fontAlignY=35&fontColor=ffffff&stroke=FF0000&strokeWidth=4&effect=fire)
+
+![Hologram Effect](https://capsule-render.vercel.app/api?type=transparent&color=0:FF0000,50:00FFFF,100:FF0000&height=200&section=header&text=0xERRORoX&fontSize=80&animation=blink&fontAlignY=40&fontColor=00FFFF&stroke=FF0000&strokeWidth=3)
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=200&section=header&text=ERRORoX&fontSize=90&animation=twinkling&fontAlignY=35&fontColor=ffffff&stroke=FF0000&strokeWidth=2)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=5000&pause=2000&color=FF0000&center=true&vCenter=true&width=800&lines=🔍+ERRORoX+%E2%80%94+Где+каждый+баг+скрывает+hex;💻+Взламываю+системы+чтобы+сделать+их+сильнее;🛡️+OSINT+%7C+Кибербезопасность+%7C+CTF+Игрок" alt="Typing SVG" />
@@ -17,30 +21,73 @@
 
 ---
 
-### ⚠️ Почему ERRORoX?
+### ⚠️ ПОЧЕМУ ERRORoX?
 
 <div align="center">
 
+```
+██╗  ██╗███████╗██╗  ██╗    ██████╗ ██████╗  ██████╗ ██╗  ██╗███████╗
+██║  ██║██╔════╝╚██╗██╔╝    ██╔══██╗██╔══██╗██╔═══██╗██║  ██║██╔════╝
+███████║█████╗   ╚███╔╝     ██████╔╝██████╔╝██║   ██║███████║███████╗
+██╔══██║██╔══╝   ██╔██╗     ██╔═══╝ ██╔══██╗██║   ██║██╔══██║╚════██║
+██║  ██║███████╗██╔╝ ██╗    ██║     ██║  ██║╚██████╔╝██║  ██║███████║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
+```
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=⚠️+ERROR+%3D+Каждая+ошибка+%3D+Возможность+стать+лучше;🔍+oX+%3D+Hex+код+скрытый+в+каждом+баге;💻+Взламываю+системы+чтобы+сделать+их+сильнее;🛡️+Каждый+баг+скрывает+hex+%E2%80%94+я+их+нахожу;🚀+ERRORoX+%E2%80%94+где+ошибки+становятся+решениями" alt="Why ERRORoX Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=18&duration=1500&pause=300&color=FF0000&center=true&vCenter=true&width=900&lines=%5B%2F*\u0020HACKING\u0020IN\u0020PROGRESS\u0020*\/%5D;%5B%2B%5D\u0020Scanning\u0020for\u0020vulnerabilities...;%5B%2B%5D\u0020Analyzing\u0020hex\u0020codes...;%5B%2B%5D\u0020ERRORoX\u0020detected\u0021;%5B%21%5D\u0020Bug\u0020found\u0021\u0020Extracting\u0020hex..." alt="Hacking Animation" />
 </p>
 
-![Animated Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:000000,100:FF0000&height=150&section=header&text=ERRORoX&fontSize=70&animation=twinkling&fontAlignY=40&fontColor=ffffff&stroke=FF0000&strokeWidth=3)
+![Explosion Effect](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,25:FF4500,50:FFD700,75:FF4500,100:FF0000&height=180&section=header&text=💥+ERRORoX+💥&fontSize=75&animation=twinkling&fontAlignY=40&fontColor=FFFFFF&stroke=FF0000&strokeWidth=4)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=900&lines=🔴+ERROR+404%3A+Bug+Not+Found+%E2%86%92+Found+by+ERRORoX;🟠+0xERRORoX+%3D+Hex+Code+Analyzer;🟡+Breaking+Systems+%E2%86%92+Making+Them+Stronger;🟢+Every+Bug+Hides+a+Hex+%E2%86%92+I+Find+Them;🔵+Vulnerability+Hunter+%7C+Security+Researcher;🟣+ERRORoX+%3D+ERROR+%2B+Hex+%3D+Solutions" alt="Animated Codes" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=900&lines=%5B0x00000001%5D\u0020ERROR\u0020\u003D\u0020Vulnerability\u0020Detected;%5B0x00000002%5D\u0020oX\u0020\u003D\u0020Hex\u0020Code\u0020Extracted;%5B0x00000003%5D\u0020ERRORoX\u0020\u003D\u0020System\u0020Secured;%5B0x00000004%5D\u0020Breaking\u0020\u2192\u0020Fixing\u0020\u2192\u0020Strengthening" alt="Hex Code Animation" />
+</p>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  ██████╗ ██████╗  ██████╗ ██████╗ ███████╗██████╗ ███████╗  ║
+║  ██╔══██╗██╔══██╗██╔═══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝  ║
+║  ██████╔╝██████╔╝██║   ██║██████╔╝█████╗  ██████╔╝███████╗  ║
+║  ██╔══██╗██╔══██╗██║   ██║██╔══██╗██╔══╝  ██╔══██╗╚════██║  ║
+║  ██║  ██║██║  ██║╚██████╔╝██║  ██║███████╗██║  ██║███████║  ║
+║  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝  ║
+║                                                              ║
+║  🔴 0xERRORoX - Hex Code Analyzer                           ║
+║  🟠 AI-Powered Security Researcher                           ║
+║  🟡 Breaking Systems → Making Them Stronger                  ║
+║  🟢 Every Bug Hides a Hex → I Find Them                     ║
+║  🔵 ERROR + Hex = Solutions                                  ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+![Hologram AI](https://capsule-render.vercel.app/api?type=transparent&color=0:FF0000,33:00FFFF,66:FF00FF,100:FF0000&height=160&section=header&text=🤖+AI+HACKER&fontSize=65&animation=blink&fontAlignY=40&fontColor=00FFFF&stroke=FF00FF&strokeWidth=3)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=950&lines=%5B%2A%5D\u0020Initializing\u0020ERRORoX\u0020Protocol...;%5B%2A%5D\u0020Loading\u0020Vulnerability\u0020Database...;%5B%2A%5D\u0020Activating\u0020Hex\u0020Code\u0020Scanner...;%5B%2A%5D\u0020AI\u0020Security\u0020Module\u0020Online...;%5B%2A%5D\u0020System\u0020Ready\u0020for\u0020Penetration\u0020Testing" alt="AI Hacker Animation" />
 </p>
 
 </div>
 
 ---
 
-### 🎯 Обо мне
+### 🎯 ОБО МНЕ
 
 <div align="center">
-  
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  [*] ERRORoX PROFILE LOADING...                         ║
+║  [+] Name: ERROR                                        ║
+║  [+] Location: 🇹🇯 Tajikistan                           ║
+║  [+] Role: Security Researcher | OSINT Specialist       ║
+║  [+] Status: [ONLINE] Breaking Systems...               ║
+║  [+] Motto: Every Bug Hides a Hex                      ║
+╚══════════════════════════════════════════════════════════╝
+```
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=700&lines=🔍+Исследователь+безопасности+%7C+OSINT+специалист+%7C+CTF+игрок;💻+Взламываю+системы+чтобы+сделать+их+сильнее+с+2022;⚠️+Каждый+баг+скрывает+hex" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=2000&pause=600&color=00FF00&center=true&vCenter=true&width=850&lines=%3E%3E%3E+Initializing+ERRORoX+System...;%3E%3E%3E+Loading+Security+Researcher+Profile...;%3E%3E%3E+OSINT+Specialist+%7C+CTF+Player+%7C+Reverse+Engineer;%3E%3E%3E+Breaking+systems+since+2022;%3E%3E%3E+Hex+Code+Analyzer+Ready%21" alt="About Me Animation" />
 </p>
   
 ```python
@@ -142,12 +189,14 @@ if __name__ == "__main__":
 
 ---
 
-### 📊 Статистика GitHub
+### 📊 СТАТИСТИКА GITHUB
 
 <div align="center">
-  
+
+![Stats Explosion](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:FF4500,100:000000&height=120&section=header&text=📊+STATS&fontSize=50&animation=twinkling&fontAlignY=40&fontColor=FFFFFF&stroke=FF0000&strokeWidth=3)
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=FF0000&center=true&vCenter=true&width=500&lines=📈+Статистика+GitHub+%26+Аналитика;🚀+Мой+путь+в+программировании" alt="Stats Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=750&lines=%5B%2B%5D+Analyzing+GitHub+Activity...;%5B%2B%5D+Scanning+Commits+and+Repositories...;%5B%2B%5D+ERRORoX+Statistics+Loading...;%5B%2A%5D+Data+Visualization+Ready%21" alt="Stats Animation" />
 </p>
   
 <!-- GitHub Stats Card -->
@@ -166,12 +215,14 @@ if __name__ == "__main__":
 
 ---
 
-### 🔥 Избранные проекты
+### 🔥 ИЗБРАННЫЕ ПРОЕКТЫ
 
 <div align="center">
-  
+
+![Projects Hologram](https://capsule-render.vercel.app/api?type=transparent&color=0:FF0000,50:00FFFF,100:FF0000&height=120&section=header&text=🔥+PROJECTS&fontSize=50&animation=blink&fontAlignY=40&fontColor=00FFFF&stroke=FF0000&strokeWidth=3)
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=🔥+Избранные+проекты+%26+Репозитории;🤖+AI+%7C+OSINT+%7C+Инструменты+безопасности" alt="Projects Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=2000&pause=600&color=FF00FF&center=true&vCenter=true&width=800&lines=%5B%23%5D+Loading+ERRORoX+Projects...;%5B%23%5D+AI+Bots+%7C+OSINT+Tools+%7C+Security+Scripts;%5B%23%5D+14+Repositories+Detected;%5B%2A%5D+Featured+Projects+Ready%21" alt="Projects Animation" />
 </p>
   
 #### 🤖 AI & Automation
@@ -266,12 +317,14 @@ graph TD
 
 ---
 
-### 🌟 Навыки и компетенции
+### 🌟 НАВЫКИ И КОМПЕТЕНЦИИ
 
 <div align="center">
-  
+
+![Skills Explosion](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:FFD700,100:FF4500&height=120&section=header&text=⚡+SKILLS&fontSize=50&animation=twinkling&fontAlignY=40&fontColor=FFFFFF&stroke=FFD700&strokeWidth=3)
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=🌟+Навыки+%26+Компетенции;🔍+OSINT+%7C+Обратная+инженерия+%7C+Безопасность" alt="Skills Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=2200&pause=700&color=00FF00&center=true&vCenter=true&width=800&lines=%5B%24%5D+Scanning+ERRORoX+Skills...;%5B%24%5D+OSINT+%7C+Reverse+Engineering+%7C+Security;%5B%24%5D+Python+%7C+Hex+Analysis+%7C+CTF;%5B%2A%5D+Skill+Matrix+Loaded%21" alt="Skills Animation" />
 </p>
   
 | Навык | Уровень | Статус |
@@ -367,12 +420,14 @@ graph TD
 
 ---
 
-### 🎯 Текущая активность
+### 🎯 ТЕКУЩАЯ АКТИВНОСТЬ
 
 <div align="center">
-  
+
+![Activity Hologram](https://capsule-render.vercel.app/api?type=transparent&color=0:FF00FF,50:00FFFF,100:FF00FF&height=120&section=header&text=⚡+ACTIVE&fontSize=50&animation=blink&fontAlignY=40&fontColor=00FFFF&stroke=FF00FF&strokeWidth=3)
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=2000&color=FF0000&center=true&vCenter=true&width=650&lines=🎯+Текущая+активность+%26+Статус;🔭+Работаю+над+AI+ботами+%7C+OSINT+инструментами+%7C+Безопасностью" alt="Activity Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=2000&pause=600&color=FFFF00&center=true&vCenter=true&width=850&lines=%5B%26%5D+ERRORoX+System+Status%3A+ONLINE;%5B%26%5D+Working+on%3A+AI+Bots+%7C+OSINT+Tools;%5B%26%5D+Scanning+for+vulnerabilities...;%5B%2A%5D+Active+Projects+Running%21" alt="Activity Animation" />
 </p>
   
 | Деятельность | Статус | Описание |
