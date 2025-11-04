@@ -1,100 +1,55 @@
-<div align="center">
-  
-![Header Explosion](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:FF4500,100:000000&height=250&section=header&text=ERRORoX&fontSize=100&animation=twinkling&fontAlignY=35&fontColor=ffffff&stroke=FF0000&strokeWidth=4&effect=fire)
-
-![Hologram Effect](https://capsule-render.vercel.app/api?type=transparent&color=0:FF0000,50:00FFFF,100:FF0000&height=200&section=header&text=0xERRORoX&fontSize=80&animation=blink&fontAlignY=40&fontColor=00FFFF&stroke=FF0000&strokeWidth=3)
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=200&section=header&text=ERRORoX&fontSize=90&animation=twinkling&fontAlignY=35&fontColor=ffffff&stroke=FF0000&strokeWidth=2)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=5000&pause=2000&color=FF0000&center=true&vCenter=true&width=800&lines=🔍+ERRORoX+%E2%80%94+Где+каждый+баг+скрывает+hex;💻+Взламываю+системы+чтобы+сделать+их+сильнее;🛡️+OSINT+%7C+Кибербезопасность+%7C+CTF+Игрок" alt="Typing SVG" />
-
-### 🛡️ Энтузиаст OSINT | 🔐 Кибербезопасность | 🏆 CTF Игрок | 🔧 Обратная инженерия
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=💻+Взламываю+системы+чтобы+сделать+их+сильнее;⚠️+ERRORoX+%E2%80%94+где+каждый+баг+скрывает+hex;🇹🇯+Базируюсь+в+Таджикистане" alt="Status" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=4000&pause=2000&color=00FF00&center=true&vCenter=true&width=1000&lines=%5B*%5D+Initializing+ERRORoX+Protocol...;%5B*%5D+Loading+Vulnerability+Database...;%5B*%5D+Activating+Hex+Code+Scanner...;%5B*%5D+Security+Module+Online...;%5B*%5D+System+Ready+for+Penetration+Testing" alt="Initializing Animation" />
 </p>
-
-[![GitHub followers](https://img.shields.io/github/followers/ERRORoX?style=social&label=Подписаться&maxAge=2592000)](https://github.com/ERRORoX)
-[![GitHub stars](https://img.shields.io/github/stars/ERRORoX?style=social&label=Звёзды&maxAge=2592000)](https://github.com/ERRORoX)
-  
-</div>
-
----
-
-### ⚠️ ПОЧЕМУ ERRORoX?
 
 <div align="center">
 
 ```
-██╗  ██╗███████╗██╗  ██╗    ██████╗ ██████╗  ██████╗ ██╗  ██╗███████╗
-██║  ██║██╔════╝╚██╗██╔╝    ██╔══██╗██╔══██╗██╔═══██╗██║  ██║██╔════╝
-███████║█████╗   ╚███╔╝     ██████╔╝██████╔╝██║   ██║███████║███████╗
-██╔══██║██╔══╝   ██╔██╗     ██╔═══╝ ██╔══██╗██║   ██║██╔══██║╚════██║
-██║  ██║███████╗██╔╝ ██╗    ██║     ██║  ██║╚██████╔╝██║  ██║███████║
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
+██████╗ ██████╗ ██████╗  ██████╗ ██████╗ ███████╗██╗  ██╗
+██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██╔══██╗██╔════╝╚██╗██╔╝
+██████╔╝██████╔╝██████╔╝██║   ██║██████╔╝███████╗ ╚███╔╝ 
+██╔══██╗██╔══██╗██╔══██╗██║   ██║██╔══██╗╚════██║ ██╔██╗ 
+██║  ██║██║  ██║██████╔╝╚██████╔╝██║  ██║███████║██╔╝ ██╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=18&duration=1500&pause=300&color=FF0000&center=true&vCenter=true&width=900&lines=%5B%2F*\u0020HACKING\u0020IN\u0020PROGRESS\u0020*\/%5D;%5B%2B%5D\u0020Scanning\u0020for\u0020vulnerabilities...;%5B%2B%5D\u0020Analyzing\u0020hex\u0020codes...;%5B%2B%5D\u0020ERRORoX\u0020detected\u0021;%5B%21%5D\u0020Bug\u0020found\u0021\u0020Extracting\u0020hex..." alt="Hacking Animation" />
-</p>
+![ERRORoX Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0000,100:000000&height=250&section=header&text=ERRORoX&fontSize=100&animation=twinkling&fontAlignY=35&fontColor=00FF00&stroke=FF0000&strokeWidth=4)
 
-![Explosion Effect](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,25:FF4500,50:FFD700,75:FF4500,100:FF0000&height=180&section=header&text=💥+ERRORoX+💥&fontSize=75&animation=twinkling&fontAlignY=40&fontColor=FFFFFF&stroke=FF0000&strokeWidth=4)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=900&lines=%5B0x00000001%5D\u0020ERROR\u0020\u003D\u0020Vulnerability\u0020Detected;%5B0x00000002%5D\u0020oX\u0020\u003D\u0020Hex\u0020Code\u0020Extracted;%5B0x00000003%5D\u0020ERRORoX\u0020\u003D\u0020System\u0020Secured;%5B0x00000004%5D\u0020Breaking\u0020\u2192\u0020Fixing\u0020\u2192\u0020Strengthening" alt="Hex Code Animation" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=32&duration=5000&pause=2500&color=FF0000&center=true&vCenter=true&width=900&lines=🔍+OSINT+Enthusiast+%7C+Cyber+Security+%7C+CTF+Player;🛡️+Reverse+Engineer+%7C+Kali+Linux+Specialist;⚠️+Breaking+systems+to+make+them+stronger;💻+ERRORoX+%E2%80%94+where+every+bug+hides+a+hex" alt="Main Typing Animation" />
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  ██████╗ ██████╗  ██████╗ ██████╗ ███████╗██████╗ ███████╗  ║
-║  ██╔══██╗██╔══██╗██╔═══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝  ║
-║  ██████╔╝██████╔╝██║   ██║██████╔╝█████╗  ██████╔╝███████╗  ║
-║  ██╔══██╗██╔══██╗██║   ██║██╔══██╗██╔══╝  ██╔══██╗╚════██║  ║
-║  ██║  ██║██║  ██║╚██████╔╝██║  ██║███████╗██║  ██║███████║  ║
-║  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝  ║
-║                                                              ║
-║  🔴 0xERRORoX - Hex Code Analyzer                           ║
-║  🟠 AI-Powered Security Researcher                           ║
-║  🟡 Breaking Systems → Making Them Stronger                  ║
-║  🟢 Every Bug Hides a Hex → I Find Them                     ║
-║  🔵 ERROR + Hex = Solutions                                  ║
-╚══════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════╗
+║  [*] SYSTEM STATUS: ONLINE                                   ║
+║  [+] USER: ERROR                                              ║
+║  [+] LOCATION: 🇹🇯 Tajikistan                                 ║
+║  [+] ROLE: Security Researcher | OSINT Specialist            ║
+║  [+] SINCE: 2022-01-06                                        ║
+║  [+] MOTTO: Breaking systems to make them stronger           ║
+║  [+] TAGLINE: Every bug hides a hex                          ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
-![Hologram AI](https://capsule-render.vercel.app/api?type=transparent&color=0:FF0000,33:00FFFF,66:FF00FF,100:FF0000&height=160&section=header&text=🤖+AI+HACKER&fontSize=65&animation=blink&fontAlignY=40&fontColor=00FFFF&stroke=FF00FF&strokeWidth=3)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=950&lines=%5B%2A%5D\u0020Initializing\u0020ERRORoX\u0020Protocol...;%5B%2A%5D\u0020Loading\u0020Vulnerability\u0020Database...;%5B%2A%5D\u0020Activating\u0020Hex\u0020Code\u0020Scanner...;%5B%2A%5D\u0020AI\u0020Security\u0020Module\u0020Online...;%5B%2A%5D\u0020System\u0020Ready\u0020for\u0020Penetration\u0020Testing" alt="AI Hacker Animation" />
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/ERRORoX?style=for-the-badge&logo=github&color=00FF00&labelColor=000000&label=Followers)](https://github.com/ERRORoX)
+[![GitHub stars](https://img.shields.io/github/stars/ERRORoX?style=for-the-badge&logo=github&color=FF0000&labelColor=000000&label=Stars)](https://github.com/ERRORoX)
+[![Profile Views](https://komarev.com/ghpvc/?username=ERRORoX&color=00FF00&label=Profile+Views&style=for-the-badge&labelColor=000000)](https://github.com/ERRORoX)
 
 </div>
 
 ---
 
-### 🎯 ОБО МНЕ
+## 💻 ОБО МНЕ
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  [*] ERRORoX PROFILE LOADING...                         ║
-║  [+] Name: ERROR                                        ║
-║  [+] Location: 🇹🇯 Tajikistan                           ║
-║  [+] Role: Security Researcher | OSINT Specialist       ║
-║  [+] Status: [ONLINE] Breaking Systems...               ║
-║  [+] Motto: Every Bug Hides a Hex                      ║
-╚══════════════════════════════════════════════════════════╝
-```
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=2000&pause=600&color=00FF00&center=true&vCenter=true&width=850&lines=%3E%3E%3E+Initializing+ERRORoX+System...;%3E%3E%3E+Loading+Security+Researcher+Profile...;%3E%3E%3E+OSINT+Specialist+%7C+CTF+Player+%7C+Reverse+Engineer;%3E%3E%3E+Breaking+systems+since+2022;%3E%3E%3E+Hex+Code+Analyzer+Ready%21" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=24&duration=3000&pause=1500&color=00FF00&center=true&vCenter=true&width=850&lines=%3E%3E%3E+Loading+ERRORoX+Profile...;%3E%3E%3E+Security+Researcher+%7C+OSINT+Specialist+%7C+CTF+Player;%3E%3E%3E+Breaking+systems+since+2022;%3E%3E%3E+Hex+Code+Analyzer+Ready%21" alt="Profile Loading" />
 </p>
-  
+
 ```python
 class ERRORoX:
     """
-    Security Researcher | OSINT Specialist | CTF Player
-    Breaking systems to make them stronger since 2022
+    Security Researcher | OSINT Specialist | CTF Player | Reverse Engineer
+    Breaking systems to make them stronger since 2022-01-06
     """
     
     def __init__(self):
@@ -104,27 +59,27 @@ class ERRORoX:
         self.motto = "Breaking systems to make them stronger"
         self.tagline = "Every bug hides a hex"
         self.founded = "2022-01-06"
+        self.status = "[ONLINE]"
         
     def skills(self):
         return {
-            "osint": "🔍 Expert",
-            "cybersecurity": "🛡️ Advanced",
-            "reverse_engineering": "🔧 Advanced",
-            "ctf": "🏆 Active Player",
-            "python": "🐍 Proficient",
-            "web_development": "🌐 HTML/CSS",
-            "ai_integration": "🤖 OpenAI API",
-            "docker": "🐳 Containerization",
-            "linux": "🐧 Kali Linux Expert"
+            "osint": "🔍 Expert - Open Source Intelligence gathering",
+            "cybersecurity": "🛡️ Advanced - Penetration testing & security research",
+            "reverse_engineering": "🔧 Advanced - Binary analysis & malware research",
+            "ctf": "🏆 Active Player - Capture The Flag competitions",
+            "python": "🐍 Proficient - Security automation & AI integration",
+            "kali_linux": "🐧 Expert - Penetration testing distribution",
+            "docker": "🐳 Containerization - Security tool deployment",
+            "ai_integration": "🤖 OpenAI API - AI-powered security tools"
         }
     
     def current_projects(self):
         return [
-            "🤖 Telegram AI Bot Development",
-            "🔍 OSINT Tools Development",
-            "🛡️ Security Research",
-            "🏆 CTF Challenges",
-            "📚 Kali Linux Education"
+            "🤖 Telegram AI Bot - Security research assistant",
+            "🔍 OSINT Tools - Information gathering frameworks",
+            "🛡️ Security Scripts - Kali Linux automation",
+            "🏆 CTF Solutions - Challenge writeups",
+            "📚 Kali Linux Academy - Educational content"
         ]
     
     def contact(self):
@@ -137,174 +92,169 @@ class ERRORoX:
 
 if __name__ == "__main__":
     me = ERRORoX()
-    print(f"Welcome to {me.name}'s profile!")
-    print(f"Location: {me.location}")
-    print(f"Status: {me.motto}")
+    print(f"[*] Initializing {me.name} profile...")
+    print(f"[+] Location: {me.location}")
+    print(f"[+] Status: {me.motto}")
+    print(f"[+] Tagline: {me.tagline}")
 ```
-  
-</div>
-
----
-
-### 🛠️ Технологический стек
-
-<div align="center">
-  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=3000&pause=1500&color=FF0000&center=true&vCenter=true&width=700&lines=🛠️+Технологии+для+поиска+багов;🔍+Инструменты+для+анализа+hex+кодов;💻+Средства+для+взлома+и+защиты" alt="Tech Stack Animation" />
-</p>
-  
-#### 💻 Языки программирования
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### 🔐 Cybersecurity & Tools
-  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-#### 🔧 Инструменты разработки
-  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-241F31?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-#### 🔍 Специализация
-  
-| Область | Уровень | Описание |
-|---------|---------|----------|
-| **OSINT** | 🔍 Expert | Open Source Intelligence Gathering |
-| **Reverse Engineering** | 🔧 Advanced | Binary Analysis & Malware Research |
-| **Web Security** | 🎯 Advanced | Penetration Testing & Bug Bounty |
-| **CTF** | 🏆 Active | Capture The Flag Competitions |
-| **AI Integration** | 🤖 Proficient | OpenAI API & LLM Integration |
-| **Containerization** | 🐳 Proficient | Docker & Deployment |
-| **Digital Forensics** | 📊 Knowledgeable | EXIF Analysis & Investigation |
 
 </div>
 
 ---
 
-### 📊 СТАТИСТИКА GITHUB
+## 📊 СТАТИСТИКА GITHUB
 
 <div align="center">
 
-![Stats Explosion](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:FF4500,100:000000&height=120&section=header&text=📊+STATS&fontSize=50&animation=twinkling&fontAlignY=40&fontColor=FFFFFF&stroke=FF0000&strokeWidth=3)
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=750&lines=%5B%2B%5D+Analyzing+GitHub+Activity...;%5B%2B%5D+Scanning+Commits+and+Repositories...;%5B%2B%5D+ERRORoX+Statistics+Loading...;%5B%2A%5D+Data+Visualization+Ready%21" alt="Stats Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=%5B%2B%5D+Analyzing+GitHub+Activity...;%5B%2B%5D+Scanning+Commits+and+Repositories...;%5B%2B%5D+ERRORoX+Statistics+Loading...;%5B%2A%5D+Data+Visualization+Ready%21" alt="Stats Loading" />
 </p>
-  
-<!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ERRORoX&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=FF0000&icon_color=FF0000&bg_color=0D1117&text_color=FFFFFF&ring_color=FF0000)
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ERRORoX&theme=tokyonight&hide_border=false&fire=FF0000&ring=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ERRORoX&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=00FF00&icon_color=FF0000&bg_color=000000&text_color=FFFFFF&ring_color=FF0000&custom_title=ERRORoX+GitHub+Statistics)
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ERRORoX&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=FF0000&bg_color=0D1117&text_color=FFFFFF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ERRORoX&theme=dark&hide_border=false&fire=FF0000&ring=FF0000&currStreakLabel=00FF00&sideLabels=FFFFFF&sideNums=FFFFFF&dates=00FF00&background=000000)
 
-<!-- GitHub Trophies -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ERRORoX&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Commits,Issues,PRs,Stars&row=2&column=4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ERRORoX&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=00FF00&bg_color=000000&text_color=FFFFFF)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ERRORoX&theme=dark&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Commits,Issues,PRs,Stars,Followers&row=2&column=4)
 
 </div>
 
 ---
 
-### 🔥 ИЗБРАННЫЕ ПРОЕКТЫ
+## 🔥 ИЗБРАННЫЕ ПРОЕКТЫ
 
 <div align="center">
 
-![Projects Hologram](https://capsule-render.vercel.app/api?type=transparent&color=0:FF0000,50:00FFFF,100:FF0000&height=120&section=header&text=🔥+PROJECTS&fontSize=50&animation=blink&fontAlignY=40&fontColor=00FFFF&stroke=FF0000&strokeWidth=3)
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=2000&pause=600&color=FF00FF&center=true&vCenter=true&width=800&lines=%5B%23%5D+Loading+ERRORoX+Projects...;%5B%23%5D+AI+Bots+%7C+OSINT+Tools+%7C+Security+Scripts;%5B%23%5D+14+Repositories+Detected;%5B%2A%5D+Featured+Projects+Ready%21" alt="Projects Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=3000&pause=1500&color=FF00FF&center=true&vCenter=true&width=850&lines=%5B%23%5D+Loading+ERRORoX+Projects...;%5B%23%5D+AI+Bots+%7C+OSINT+Tools+%7C+Security+Scripts;%5B%23%5D+14+Repositories+Detected;%5B%2A%5D+Featured+Projects+Ready%21" alt="Projects Loading" />
 </p>
-  
-#### 🤖 AI & Automation
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ERRORoX&repo=black-bot&theme=tokyonight&title_color=FF0000&bg_color=0D1117&text_color=FFFFFF&border_color=FF0000)](https://github.com/ERRORoX/black-bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ERRORoX&repo=black-bot.v2&theme=tokyonight&title_color=FF0000&bg_color=0D1117&text_color=FFFFFF&border_color=FF0000)](https://github.com/ERRORoX/black-bot.v2)
-  
-#### 🔍 OSINT & Security Tools
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ERRORoX&repo=grabcam&theme=tokyonight&title_color=FF0000&bg_color=0D1117&text_color=FFFFFF&border_color=FF0000)](https://github.com/ERRORoX/grabcam)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ERRORoX&repo=Kali-Linux-Academy&theme=tokyonight&title_color=FF0000&bg_color=0D1117&text_color=FFFFFF&border_color=FF0000)](https://github.com/ERRORoX/Kali-Linux-Academy)
-  
-#### 🔐 Security & Forensics
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ERRORoX&repo=EXIF&theme=tokyonight&title_color=FF0000&bg_color=0D1117&text_color=FFFFFF&border_color=FF0000)](https://github.com/ERRORoX/EXIF)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ERRORoX&repo=DARKWEB&theme=tokyonight&title_color=FF0000&bg_color=0D1117&text_color=FFFFFF&border_color=FF0000)](https://github.com/ERRORoX/DARKWEB)
-  
+
+### 🤖 AI & Automation
+
+[![black-bot](https://github-readme-stats.vercel.app/api/pin/?username=ERRORoX&repo=black-bot&theme=dark&title_color=00FF00&bg_color=000000&text_color=FFFFFF&border_color=FF0000)](https://github.com/ERRORoX/black-bot)
+[![black-bot.v2](https://github-readme-stats.vercel.app/api/pin/?username=ERRORoX&repo=black-bot.v2&theme=dark&title_color=00FF00&bg_color=000000&text_color=FFFFFF&border_color=FF0000)](https://github.com/ERRORoX/black-bot.v2)
+
+**Telegram-бот с AI для безопасности и Kali Linux**  
+Интеграция с OpenAI API для помощи в исследовании безопасности, программировании и использовании Kali Linux.
+
+### 🔍 OSINT & Security Tools
+
+[![EXIF](https://github-readme-stats.vercel.app/api/pin/?username=ERRORoX&repo=EXIF&theme=dark&title_color=00FF00&bg_color=000000&text_color=FFFFFF&border_color=FF0000)](https://github.com/ERRORoX/EXIF)
+
+**Инструменты OSINT для сбора информации**
+
+### 📚 Kali Linux & Education
+
+[![Kali-Linux-Academy](https://github-readme-stats.vercel.app/api/pin/?username=ERRORoX&repo=Kali-Linux-Academy&theme=dark&title_color=00FF00&bg_color=000000&text_color=FFFFFF&border_color=FF0000)](https://github.com/ERRORoX/Kali-Linux-Academy)
+
+**Образовательные материалы по Kali Linux**
+
 </div>
 
 ---
 
-### 📦 Все проекты (14 публичных репозиториев)
+## 🛠️ ТЕХНОЛОГИЧЕСКИЙ СТЕК
 
 <div align="center">
-  
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=3500&pause=2000&color=FF0000&center=true&vCenter=true&width=750&lines=📦+14+публичных+репозиториев;🔍+Проекты+для+поиска+багов+и+уязвимостей;🤖+AI+боты+%7C+OSINT+инструменты+%7C+Безопасность;💻+Каждый+проект+%E2%80%94+шаг+к+безопасности" alt="Projects List Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=3000&pause=1500&color=00FFFF&center=true&vCenter=true&width=800&lines=🛠️+Technologies+for+bug+hunting;🔍+Tools+for+hex+code+analysis;💻+Security+automation+stack" alt="Tech Stack" />
 </p>
-  
+
+### 💻 Языки программирования
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
+
+### 🐧 Операционные системы
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=000000)
+
+### 🛠️ Инструменты и технологии
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+![Terminal](https://img.shields.io/badge/Terminal-241F31?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000000)
+
+### 🤖 AI & APIs
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)
+
+</div>
+
+---
+
+## 📦 ВСЕ ПРОЕКТЫ (14 публичных репозиториев)
+
+<div align="center">
+
+```
+┌────────────────────────────────────────────────────────────┐
+│  [*] Scanning repositories...                              │
+│  [+] Found 14 public repositories                          │
+│  [+] Categorizing by technology...                         │
+│  [+] Analysis complete                                     │
+└────────────────────────────────────────────────────────────┘
+```
+
 | 🔢 | Проект | Язык | Категория | Описание |
 |----|--------|------|-----------|----------|
-| 1️⃣ | [**black-bot**](https://github.com/ERRORoX/black-bot) | 🐍 Python | 🤖 AI Bot | Telegram-бот с AI для общения на темы хакерства и Kali Linux |
-| 2️⃣ | [**black-bot.v2**](https://github.com/ERRORoX/black-bot.v2) | 🐍 Python | 🤖 AI Bot | Версия 2 Telegram бота с улучшенным функционалом |
-| 3️⃣ | [**Kali-Linux-Academy**](https://github.com/ERRORoX/Kali-Linux-Academy) | 🐍 Python | 📚 Education | Образовательные материалы по Kali Linux и безопасности |
-| 4️⃣ | [**EXIF**](https://github.com/ERRORoX/EXIF) | 🐍 Python | 🔐 Forensics | Инструмент для работы с EXIF данными и метаданными |
-| 5️⃣ | [**grabcam**](https://github.com/ERRORoX/grabcam) | 🌐 HTML | 🔍 OSINT | Веб-инструмент для работы с камерами и веб-разработки |
-| 6️⃣ | [**DARKWEB**](https://github.com/ERRORoX/DARKWEB) | 🎨 CSS | 🌑 Dark Web | Проект связанный с темной веб-тематикой и стилями |
-| 7️⃣ | [**DARK**](https://github.com/ERRORoX/DARK) | 🌐 HTML | 🌑 Dark Theme | Темная тема проекта для веб-приложений |
-| 8️⃣ | [**jarvis1**](https://github.com/ERRORoX/jarvis1) | 🌐 HTML | 🤖 AI Assistant | AI-ассистент проект для автоматизации |
-| 9️⃣ | [**server**](https://github.com/ERRORoX/server) | 🌐 HTML | 🖥️ Server | Серверный проект для веб-разработки |
-| 🔟 | [**Dilnoz**](https://github.com/ERRORoX/Dilnoz) | 🌐 HTML | 📝 Personal | Личный проект |
-| 1️⃣1️⃣ | [**Dilnoza**](https://github.com/ERRORoX/Dilnoza) | 🌐 HTML | 📝 Personal | Личный проект |
-| 1️⃣2️⃣ | [**Dilnozaa**](https://github.com/ERRORoX/Dilnozaa) | 🌐 HTML | 📝 Personal | Личный проект |
-| 1️⃣3️⃣ | [**bot**](https://github.com/ERRORoX/bot) | - | 🤖 Bot | Бот проект |
+| 1 | [**black-bot**](https://github.com/ERRORoX/black-bot) | 🐍 Python | 🤖 AI Bot | Telegram-бот с AI для хакерства и Kali Linux |
+| 2 | [**black-bot.v2**](https://github.com/ERRORoX/black-bot.v2) | 🐍 Python | 🤖 AI Bot | Версия 2 Telegram бота с улучшенным функционалом |
+| 3 | [**EXIF**](https://github.com/ERRORoX/EXIF) | 🐍 Python | 🔐 Forensics | Инструмент для работы с EXIF данными и метаданными |
+| 4 | [**Kali-Linux-Academy**](https://github.com/ERRORoX/Kali-Linux-Academy) | 🐍 Python | 📚 Education | Образовательные материалы по Kali Linux |
+| 5 | [**grabcam**](https://github.com/ERRORoX/grabcam) | 🌐 HTML | 🔍 OSINT | Веб-инструмент для работы с камерами |
+| 6 | [**DARKWEB**](https://github.com/ERRORoX/DARKWEB) | 🎨 CSS | 🌑 Dark Web | Проект связанный с темной веб-тематикой |
+| 7 | [**DARK**](https://github.com/ERRORoX/DARK) | 🌐 HTML | 🌑 Dark Theme | Темная тема проекта |
+| 8 | [**jarvis1**](https://github.com/ERRORoX/jarvis1) | 🌐 HTML | 🤖 AI Assistant | AI-ассистент проект |
+| 9 | [**server**](https://github.com/ERRORoX/server) | 🌐 HTML | 🖥️ Server | Серверный проект |
+| 10 | [**bot**](https://github.com/ERRORoX/bot) | - | 🤖 Bot | Бот проект |
+| 11 | [**Dilnoz**](https://github.com/ERRORoX/Dilnoz) | 🌐 HTML | 📝 Personal | Личный проект |
+| 12 | [**Dilnoza**](https://github.com/ERRORoX/Dilnoza) | 🌐 HTML | 📝 Personal | Личный проект |
+| 13 | [**Dilnozaa**](https://github.com/ERRORoX/Dilnozaa) | 🌐 HTML | 📝 Personal | Личный проект |
+| 14 | [**ERRORoX**](https://github.com/ERRORoX/ERRORoX) | - | 👤 Profile | GitHub профиль |
 
 </div>
 
 ---
 
-### 🎓 Опыт и интересы
+## 🎓 ОПЫТ И ИНТЕРЕСЫ
 
 <div align="center">
-  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=650&lines=🎓+Опыт+%26+Интересы;🛡️+Кибербезопасность+%7C+OSINT+%7C+CTF+%7C+Обратная+инженерия" alt="Experience Animation" />
-</p>
-  
-```mermaid
-graph TD
-    A[ERRORoX] --> B[Cybersecurity]
-    A --> C[OSINT]
-    A --> D[CTF]
-    A --> E[Reverse Engineering]
-    
-    B --> B1[Penetration Testing]
-    B --> B2[Bug Bounty]
-    B --> B3[Vulnerability Research]
-    
-    C --> C1[Information Gathering]
-    C --> C2[Digital Investigation]
-    C --> C3[Metadata Analysis]
-    
-    D --> D1[Web Challenges]
-    D --> D2[Forensics]
-    D --> D3[Crypto]
-    
-    E --> E1[Binary Analysis]
-    E --> E2[Malware Research]
-    E --> E3[Code Analysis]
-```
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=4000&pause=2000&color=00FF00&center=true&vCenter=true&width=850&lines=🎓+Experience+%26+Interests;🛡️+Cybersecurity+%7C+OSINT+%7C+CTF+%7C+Reverse+Engineering;🔍+Bug+hunting+%7C+Hex+code+analysis+%7C+System+protection" alt="Experience" />
+</p>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  Security Research & Development                            │
+│  ├── OSINT (Open Source Intelligence)                       │
+│  │   ├── Information Gathering                             │
+│  │   ├── Social Engineering                                │
+│  │   └── Digital Forensics                                 │
+│  ├── Penetration Testing                                    │
+│  │   ├── Web Application Security                          │
+│  │   ├── Network Security                                  │
+│  │   └── Wireless Security                                 │
+│  ├── Reverse Engineering                                    │
+│  │   ├── Binary Analysis                                   │
+│  │   ├── Malware Research                                  │
+│  │   └── Exploit Development                               │
+│  ├── CTF Competitions                                       │
+│  │   ├── Web Challenges                                    │
+│  │   ├── Crypto Challenges                                 │
+│  │   └── Forensics Challenges                              │
+│  └── AI-Powered Security Tools                              │
+│      ├── Automated Scanning                                │
+│      ├── Intelligent Analysis                              │
+│      └── Security Automation                               │
+└─────────────────────────────────────────────────────────────┘
+```
 
 **🔹 OSINT Research** - Сбор и анализ открытой информации для исследований безопасности  
 **🔹 Cyber Security** - Исследование уязвимостей и защита систем от атак  
@@ -315,283 +265,154 @@ graph TD
 **🔹 Digital Forensics** - Работа с метаданными (EXIF) и расследование инцидентов  
 **🔹 Educational Content** - Создание обучающих материалов по Kali Linux и безопасности
 
+</div>
+
 ---
 
-### 🌟 НАВЫКИ И КОМПЕТЕНЦИИ
+## 🌟 НАВЫКИ И КОМПЕТЕНЦИИ
 
 <div align="center">
 
-![Skills Explosion](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:FFD700,100:FF4500&height=120&section=header&text=⚡+SKILLS&fontSize=50&animation=twinkling&fontAlignY=40&fontColor=FFFFFF&stroke=FFD700&strokeWidth=3)
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=2200&pause=700&color=00FF00&center=true&vCenter=true&width=800&lines=%5B%24%5D+Scanning+ERRORoX+Skills...;%5B%24%5D+OSINT+%7C+Reverse+Engineering+%7C+Security;%5B%24%5D+Python+%7C+Hex+Analysis+%7C+CTF;%5B%2A%5D+Skill+Matrix+Loaded%21" alt="Skills Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=3000&pause=1500&color=FFFF00&center=true&vCenter=true&width=850&lines=🌟+Skills+%26+Competencies;🔍+OSINT+%7C+Reverse+Engineering+%7C+Security;🐍+Python+%7C+Hex+Analysis+%7C+CTF" alt="Skills" />
 </p>
-  
+
 | Навык | Уровень | Статус |
 |-------|---------|--------|
 | **OSINT** | 🔍 Expert | ✅ Активно использую |
+| **Cybersecurity** | 🛡️ Advanced | ✅ Активно использую |
 | **Reverse Engineering** | 🔧 Advanced | ✅ Активно использую |
-| **Web Security** | 🎯 Advanced | ✅ Активно использую |
-| **Python Development** | 🐍 Proficient | ✅ Активно использую |
-| **AI/ML Integration** | 🤖 Proficient | ✅ Активно использую |
-| **Docker** | 🐳 Proficient | ✅ Активно использую |
-| **Linux Administration** | 🐧 Expert | ✅ Активно использую |
 | **CTF** | 🏆 Active Player | ✅ Регулярно участвую |
-| **Bug Bounty** | 🐛 Knowledgeable | ⚡ Изучаю |
-| **Web Development** | 🌐 Proficient | ✅ Активно использую |
+| **Python** | 🐍 Proficient | ✅ Активно использую |
+| **Kali Linux** | 🐧 Expert | ✅ Повседневное использование |
+| **Docker** | 🐳 Intermediate | ✅ Использую |
+| **AI Integration** | 🤖 Intermediate | ✅ OpenAI API |
 
 </div>
 
 ---
 
-### 📈 Вклад в безопасность
-
-<div align="center">
-  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=📈+Вклад+в+безопасность;💻+Моя+активность+на+GitHub+%26+Прогресс" alt="Contribution Animation" />
-</p>
-  
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ERRORoX&theme=tokyo-night&hide_border=true&color=FF0000&line=FF0000&point=FF0000&area=true&area_color=FF0000&bg_color=0D1117&title_color=FFFFFF)
-
-**📊 Статистика коммитов за последний год:**
-
-![GitHub last commit](https://img.shields.io/github/last-commit/ERRORoX/ERRORoX?style=for-the-badge&logo=github&color=FF0000&label=Last%20Commit)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ERRORoX/ERRORoX?style=for-the-badge&logo=github&color=FF0000&label=Commits/Month)
-
-</div>
-
----
-
-### 🔐 Сфера деятельности
-
-<div align="center">
-  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=800&lines=🔐+Сфера+деятельности+ERRORoX;🛡️+Кибербезопасность+%7C+OSINT+%7C+CTF+%7C+Reverse+Engineering;🔍+Поиск+багов+%7C+Анализ+hex+кодов+%7C+Защита+систем;💻+Взлом+%E2%86%92+Анализ+%E2%86%92+Защита" alt="Activity Sphere Animation" />
-</p>
-  
-```
-🛡️ Cybersecurity Research & Development
-│
-├── 🔍 OSINT Gathering & Analysis
-│   ├── Information Collection
-│   ├── Digital Investigation
-│   └── Metadata Extraction
-│
-├── 🤖 AI-Powered Security Tools
-│   ├── Telegram Bots
-│   ├── OpenAI Integration
-│   └── LLM Applications
-│
-├── 🔧 Reverse Engineering  
-│   ├── Binary Analysis
-│   ├── Malware Research
-│   └── Code Decompilation
-│
-├── 🎯 Penetration Testing
-│   ├── Web Application Security
-│   ├── Network Security
-│   └── Vulnerability Assessment
-│
-├── 🏆 CTF Competitions
-│   ├── Web Challenges
-│   ├── Forensics
-│   ├── Crypto
-│   └── Reverse Engineering
-│
-├── 🐛 Bug Bounty Hunting
-│   ├── Vulnerability Discovery
-│   ├── Responsible Disclosure
-│   └── Security Research
-│
-├── 📚 Educational Content
-│   ├── Kali Linux Tutorials
-│   ├── Security Guides
-│   └── Tool Documentation
-│
-└── 🐳 Containerization & Deployment
-    ├── Docker
-    ├── Container Management
-    └── CI/CD Integration
-```
-
-</div>
-
----
-
-### 🎯 ТЕКУЩАЯ АКТИВНОСТЬ
+## 🎯 ТЕКУЩАЯ АКТИВНОСТЬ
 
 <div align="center">
 
-![Activity Hologram](https://capsule-render.vercel.app/api?type=transparent&color=0:FF00FF,50:00FFFF,100:FF00FF&height=120&section=header&text=⚡+ACTIVE&fontSize=50&animation=blink&fontAlignY=40&fontColor=00FFFF&stroke=FF00FF&strokeWidth=3)
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=2000&pause=600&color=FFFF00&center=true&vCenter=true&width=850&lines=%5B%26%5D+ERRORoX+System+Status%3A+ONLINE;%5B%26%5D+Working+on%3A+AI+Bots+%7C+OSINT+Tools;%5B%26%5D+Scanning+for+vulnerabilities...;%5B%2A%5D+Active+Projects+Running%21" alt="Activity Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=3000&pause=1500&color=FF00FF&center=true&vCenter=true&width=900&lines=%5B%26%5D+ERRORoX+System+Status%3A+ONLINE;%5B%26%5D+Working+on%3A+AI+Bots+%7C+OSINT+Tools;%5B%26%5D+Scanning+for+vulnerabilities...;%5B%2A%5D+Active+Projects+Running%21" alt="Current Activity" />
 </p>
-  
+
 | Деятельность | Статус | Описание |
 |--------------|--------|----------|
-| 🔭 **Работаю над** | 🟢 Активно | Улучшением AI-ботов и OSINT инструментов |
-| 🌱 **Изучаю** | 🟡 В процессе | Новые методы reverse engineering и обхода защиты |
-| 👯 **Открыт к сотрудничеству** | 🟢 Доступен | В проектах безопасности и OSINT |
-| 🤔 **Ищу помощь с** | 🟠 Нужна помощь | Продвинутыми техниками обхода защиты и malware анализом |
-| 💬 **Спросите меня о** | 🟢 Доступен | OSINT, Cyber Security, CTF, Reverse Engineering, AI Integration |
-| 📫 **Связаться** | 🟢 Доступен | [GitHub Profile](https://github.com/ERRORoX) |
-| ⚡ **Интересный факт** | 💡 | Каждый баг скрывает hex код, и я их нахожу |
+| 🤖 **Telegram AI Bot** | 🟢 В разработке | Бот для помощи в безопасности |
+| 🔍 **OSINT Tools** | 🟢 Активная разработка | Инструменты для сбора информации |
+| 🛡️ **Security Research** | 🟢 Исследование | Поиск уязвимостей и багов |
+| 🏆 **CTF Challenges** | 🟡 Участие | Capture The Flag соревнования |
+| 📚 **Kali Linux Education** | 🟢 Создание контента | Образовательные материалы |
 
 </div>
 
 ---
 
-### 🤝 Связь со мной
+## 📈 ВКЛАД В БЕЗОПАСНОСТЬ
 
 <div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ERRORoX)
-[![GitHub Followers](https://img.shields.io/github/followers/ERRORoX?label=Follow&style=for-the-badge&logo=github&color=FF0000)](https://github.com/ERRORoX)
-[![GitHub Stars](https://img.shields.io/github/stars/ERRORoX?label=Stars&style=for-the-badge&logo=github&color=FF0000)](https://github.com/ERRORoX)
 
-**📧 Связаться:** Откройте issue в любом из моих репозиториев или напишите мне на GitHub
-
-**⚠️ Помните:** Используйте свои знания ответственно. Только этичный хакинг!
-
-</div>
-
----
-
-### 🎯 Цели и планы
-
-<div align="center">
-  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=🎯+Цели+%26+Планы;🚀+Будущие+стремления+%26+Цели" alt="Goals Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=3000&pause=1500&color=00FF00&center=true&vCenter=true&width=800&lines=📈+Contribution+to+Security;💻+My+GitHub+Activity+%26+Progress" alt="Contribution" />
 </p>
-  
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ERRORoX&theme=dark&hide_border=true&color=00FF00&line=FF0000&point=00FF00&area=true&area_color=FF0000&bg_color=000000&title_color=FFFFFF)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/ERRORoX/ERRORoX?style=for-the-badge&logo=github&color=00FF00&labelColor=000000&label=Last+Commit)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ERRORoX/ERRORoX?style=for-the-badge&logo=github&color=FF0000&labelColor=000000&label=Commits/Month)
+
+</div>
+
+---
+
+## 🎯 ЦЕЛИ И ПЛАНЫ
+
+<div align="center">
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=850&lines=🎯+Goals+%26+Plans;🚀+Future+Aspirations+%26+Objectives" alt="Goals" />
+</p>
+
 - [ ] 🎯 Продолжать развиваться в области OSINT и безопасности
-- [ ] 🏆 Участвовать в крупных CTF соревнованиях и конкурсах
+- [ ] 🔍 Расширять коллекцию инструментов для исследования
+- [ ] 🛡️ Улучшать навыки в reverse engineering
+- [ ] 🏆 Активно участвовать в CTF соревнованиях
+- [ ] 🤖 Развивать AI-интеграцию в инструменты безопасности
+- [ ] 📚 Создавать больше образовательного контента по Kali Linux
+- [ ] 🐛 Участвовать в bug bounty программах
 - [ ] 🌟 Внести вклад в open-source security проекты
-- [ ] 🐛 Получить признание в сообществе bug bounty
-- [ ] 🛠️ Разработать собственные инструменты для безопасности
-- [ ] 🤖 Улучшить AI-боты с расширенным функционалом
-- [ ] 📚 Создать больше обучающих материалов по Kali Linux
-- [ ] 🔐 Получить сертификаты по кибербезопасности
-- [ ] 🌐 Развивать веб-инструменты для OSINT
 
 </div>
 
 ---
 
-### 💡 Любимые цитаты
+## 🔥 ИНТЕРЕСНЫЕ ФАКТЫ
 
 <div align="center">
-  
-> **"The quieter you become, the more you are able to hear."**  
-> *— Kali Linux*
 
-> **"Security is not a product, but a process."**  
-> *— Bruce Schneier*
-
-> **"The only secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."**  
-> *— Gene Spafford*
-
-> **"Breaking systems to make them stronger"**  
-> *— ERRORoX*
-
-> **"Every bug hides a hex"**  
-> *— ERRORoX*
-
-</div>
-
----
-
-### 🔥 Интересные факты
-
-<div align="center">
-  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=20&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=750&lines=🔥+Интересные+факты+об+ERRORoX;🖥️+Взламываю+системы+чтобы+сделать+их+безопаснее;🔍+Каждый+баг+скрывает+hex+%E2%80%94+я+их+нахожу;🛡️+Защищаю+исследуя+уязвимости;🎯+Фокус+на+этичном+хакинге" alt="Fun Facts Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=900&lines=🔥+Interesting+Facts+about+ERRORoX;🖥️+Breaking+systems+to+make+them+safer;🔍+Every+bug+hides+a+hex+%E2%80%94+I+find+them;🛡️+Protecting+by+researching+vulnerabilities;🎯+Focus+on+ethical+hacking" alt="Fun Facts" />
 </p>
-  
+
 | Факт | Описание |
 |------|----------|
-| 🖥️ | Люблю взламывать системы, чтобы сделать их безопаснее |
+| 🖥️ | Взламываю системы, чтобы сделать их безопаснее |
 | 🔍 | Каждый баг скрывает hex код, и я их нахожу |
 | 🛡️ | Защищаю, исследуя уязвимости |
 | 🎯 | Фокус на этичном хакинге и безопасности |
 | 🤖 | Интегрирую AI в инструменты безопасности |
 | 🐳 | Использую Docker для развертывания проектов |
-| ☕ | Код, безопасность и кофе - идеальное сочетание |
 | 🇹🇯 | Работаю из Таджикистана |
 
 </div>
 
 ---
 
-### 📊 Активность GitHub
+## ⚡ ЗАБАВНАЯ СТАТИСТИКА
 
 <div align="center">
-  
-**📈 Детальная статистика:**
 
-![GitHub last commit](https://img.shields.io/github/last-commit/ERRORoX/ERRORoX?style=for-the-badge&logo=github&color=FF0000)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true&bgColor=000000&textColor=00FF00&borderColor=FF0000)
 
-**📦 Репозитории:**
-
-![GitHub repos](https://img.shields.io/badge/Public%20Repos-14-blue?style=for-the-badge&logo=github)
-![GitHub private repos](https://img.shields.io/badge/Private%20Repos-Check%20Profile-lightgrey?style=for-the-badge&logo=github)
-
-**👥 Социальная активность:**
-
-![GitHub followers](https://img.shields.io/github/followers/ERRORoX?style=for-the-badge&logo=github&color=FF0000&label=Followers)
-![GitHub following](https://img.shields.io/github/following/ERRORoX?style=for-the-badge&logo=github&color=FF0000&label=Following)
-
-**⭐ Вклад в сообщество:**
-
-![GitHub stars](https://img.shields.io/github/stars/ERRORoX?style=for-the-badge&logo=github&color=FF0000&label=Total%20Stars)
+![Visitor Count](https://profile-counter.glitch.me/ERRORoX/count.svg?color=00FF00)
 
 </div>
 
 ---
 
-<div align="center">
-  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5000&pause=2000&color=FF0000&center=true&vCenter=true&width=700&lines=⚡+Забавная+статистика+%26+Факты;🎉+Спасибо+за+визит+на+мой+профиль!" alt="Fun Stats Animation" />
-</p>
-  
-### ⚡ Забавная статистика
+## 🐍 МОЯ СТАТИСТИКА КОММИТОВ
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&bgColor=0D1117&textColor=FFFFFF&borderColor=FF0000)
-  
----
-  
-**👀 Просмотры профиля:**
-  
-![Visitor Count](https://profile-counter.glitch.me/ERRORoX/count.svg?color=FF0000)
-  
----
-  
-### 🐍 Моя статистика коммитов
+<div align="center">
 
 ![Snake animation](https://github.com/ERRORoX/ERRORoX/blob/output/github-contribution-grid-snake.svg)
-  
----
-  
-### 🎨 GitHub Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=ERRORoX&color=FF0000&style=for-the-badge&label=Profile+Views)
-  
----
-  
-⭐️ **От [ERRORoX](https://github.com/ERRORoX)**
-  
-**Сделано с ❤️ и 🔐 мыслями о безопасности**
-  
-**⚠️ Помните: Используйте свои силы ответственно. Только этичный хакинг!**
-  
-**🔒 Всегда оставайтесь любознательными, безопасными и этичными.**
-  
-**💻 Взламываю системы, чтобы сделать их сильнее | ERRORoX — где каждый баг скрывает hex**
 
 </div>
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  ⭐️ From [ERRORoX](https://github.com/ERRORoX)               ║
+║                                                                ║
+║  Made with ❤️ and 🔐 Security in mind                         ║
+║                                                                ║
+║  ⚠️ Remember: Use your powers responsibly.                    ║
+║     Ethical hacking only!                                     ║
+║                                                                ║
+║  🔒 Always stay curious, stay secure, stay ethical.           ║
+║                                                                ║
+║  💻 Breaking systems to make them stronger                    ║
+║     ERRORoX — where every bug hides a hex                     ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=ERRORoX&color=00FF00&style=for-the-badge&label=Profile+Views&labelColor=000000)
+
+</div>
+Ы
